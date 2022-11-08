@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkaming&label=Profile%20views&color=0e75b6&style=flat" alt="tkaming" /> </p>
 
-- I’m currently learning **Quantum computing**
+- I’m currently learning **Quantum computing (QISKIT)**
 
-- I regularly write articles on [https://tobiaskaruth.pythonanywhere.com/blog](https://tobiaskaruth.pythonanywhere.com/blog)
+- I regularly write articles on [https://tobiaskaruth.pythonanywhere.com/blog](https://tobiaskaruth.pythonanywhere.com/blog) <img src="https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg">
 
 - Ask me about **Cyber-security, Quantum computing**
 
