@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkaming&label=Profile%20views&color=0e75b6&style=flat" alt="tkaming" /> </p>
 
-- I’m currently learning **Quantum computing (QISKIT)**
-
 - I regularly write articles on [https://tobiaskaruth.pythonanywhere.com/blog](https://tobiaskaruth.pythonanywhere.com/blog) (Mobile isn´t working)
 
 - Ask me about **Cyber-security, Quantum computing**
@@ -14,11 +12,26 @@
 
 - Know about my experiences [Resume Tobias Karuth](https://github.com/TKAMING/Tobias-Karuth-website_blog/blob/main/static/media/Resume_Tobias-Karuth.pdf)
 
-<img align="left" width="50%" style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=tkaming&theme=merko&show_icons=true" />
-<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkaming&theme=merko&show_icons=true" />
+<!-- stat card -->
+![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=tkaming&theme=merko&show_icons=true)
 
-<h3 align="right">Languages</h3>
-<p align="right">
+<!-- top streakes -->
+![Top Streaks](https://github-readme-streak-stats.herokuapp.com/?user=tkaming&theme=merko&show_icons=true)
+
+<!-- current projects -->
+# Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=traffic-map&theme=merko&show_icons=true)](https://github.com/TKAMING/traffic-map)
+
+---
+
+<!-- new projects -->
+# New Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Tobias-Karuth-website_blog&theme=merko&show_icons=true)](https://github.com/TKAMING/Tobias-Karuth-website_blog)
+
+---
+
+<h3 align="left">Languages</h3>
+<p align="left">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -34,20 +47,26 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h3 align="right">Tools</h3>
-<p align="right">
+---
+
+<h3 align="left">Tools</h3>
+<p align="left">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
-<h3 align="right">Operating System</h3>
-<p align="right">
+---
+
+<h3 align="left">Operating System</h3>
+<p align="left">
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
