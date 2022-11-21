@@ -20,7 +20,7 @@
 
 <!-- current projects -->
 # Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=traffic-map&theme=merko&show_icons=true)](https://github.com/TKAMING/traffic-map)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=IPMap&theme=merko&show_icons=true)](https://github.com/TKAMING/IPMap)
 
 ---
 
