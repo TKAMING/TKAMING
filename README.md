@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkaming&label=Profile%20views&color=0e75b6&style=flat" alt="tkaming" /> </p>
 
-- My website: [https://tobiaskaruth.pythonanywhere.com/blog](https://tobiaskaruth.pythonanywhere.com/blog) (Mobile layout not that great)
+- My website: [https://tobiaskaruth.pythonanywhere.com/](https://tobiaskaruth.pythonanywhere.com/) (Mobile layout not that great)
 
 - Ask me about **Cyber-security, Quantum computing**
 
