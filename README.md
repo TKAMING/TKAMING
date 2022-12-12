@@ -6,6 +6,8 @@
 
 - My website: [https://tobiaskaruth.com/](https://tobiaskaruth.pythonanywhere.com/) (Mobile layout not that great)
 
+- Currently learning: **Artificial Intelligence**
+
 - Ask me about **Cyber-security, Quantum computing**
 
 - How to reach me **tobiaskaruth@gmail.com**
