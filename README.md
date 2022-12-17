@@ -6,7 +6,7 @@
 
 - My website: [https://tobiaskaruth.com/](https://tobiaskaruth.pythonanywhere.com/) (Mobile layout not that great)
 
-- Currently learning: **Artificial Intelligence**
+- Currently learning: **Mathematical Thinking**
 
 - Ask me about **Cyber-security, Quantum computing**
 
