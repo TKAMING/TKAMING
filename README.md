@@ -22,12 +22,13 @@
 
 <!-- current projects -->
 # Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=IPMap&theme=merko&show_icons=true)](https://github.com/TKAMING/IPMap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Scrapes&theme=merko&show_icons=true)](https://github.com/TKAMING/Scrapes)
 
 ---
 
 <!-- new projects -->
 # New Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=IPMap&theme=merko&show_icons=true)](https://github.com/TKAMING/IPMap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Tobias-Karuth-website_blog&theme=merko&show_icons=true)](https://github.com/TKAMING/Tobias-Karuth-website_blog)
 
 ---
