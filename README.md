@@ -27,7 +27,7 @@
 ---
 
 <!-- new projects -->
-# New Projects
+# Popular Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=IPMap&theme=merko&show_icons=true)](https://github.com/TKAMING/IPMap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Tobias-Karuth-website_blog&theme=merko&show_icons=true)](https://github.com/TKAMING/Tobias-Karuth-website_blog)
 
