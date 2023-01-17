@@ -12,7 +12,7 @@
 
 - How to reach me **tobiaskaruth@gmail.com**
 
-- Know about my experiences [Resume Tobias Karuth](https://github.com/TKAMING/Tobias-Karuth-website_blog/blob/main/static/media/Resume_Tobias-Karuth.pdf)
+- Know about my experiences [Resume Tobias Karuth](https://tobiaskaruth.pythonanywhere.com/static/media/Resume_Tobias-Karuth.pdf)
 
 <!-- stat card -->
 ![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=tkaming&theme=merko&show_icons=true)
