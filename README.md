@@ -22,12 +22,14 @@
 
 <!-- current projects -->
 # Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Scrapes&theme=merko&show_icons=true)](https://github.com/TKAMING/Scrapes)
+Learning C++ and Algorithms for competitive programming. Following is my C++ template... shoutout to rachitiitr
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=comp_template&theme=merko&show_icons=true)](https://github.com/TKAMING/comp_template)
 
 ---
 
 <!-- new projects -->
 # Popular Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Scrapes&theme=merko&show_icons=true)](https://github.com/TKAMING/Scrapes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=IPMap&theme=merko&show_icons=true)](https://github.com/TKAMING/IPMap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Tobias-Karuth-website_blog&theme=merko&show_icons=true)](https://github.com/TKAMING/Tobias-Karuth-website_blog)
 
