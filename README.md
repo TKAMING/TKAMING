@@ -77,5 +77,4 @@ Learning C++ and Algorithms for competitive programming. Following is my C++ tem
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tobias karuth" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tobias karuth"/></a>
-<a href="https://www.leetcode.com/tkaming" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="tkaming"  /></a>
 </p>
