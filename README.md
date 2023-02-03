@@ -6,9 +6,9 @@
 
 - My website: [https://tobiaskaruth.com/](https://tobiaskaruth.pythonanywhere.com/) (Mobile layout not that great)
 
-- Currently learning: **Competitive Programming** (for hopfully IOI) + **C++**
+- Currently learning: **Competitive Programming** (for hopfully IOI) + **C++** and **Calculus**
 
-- Ask me about **Cyber-security, Quantum computing**
+- Ask me about **Cyber-security, Quantum computing, MAth**
 
 - How to reach me **tobiaskaruth@gmail.com**
 
