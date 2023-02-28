@@ -8,7 +8,7 @@
 
 - Currently learning: **Competitive Programming** (for hopfully IOI) + **C++** and **Calculus**
 
-- Ask me about **Cyber-security, Quantum computing, Math**
+- Ask me about **Cyber-security, Quantum computing, Mathematics and Physics**
 
 - How to reach me **tobiaskaruth@gmail.com**
 
