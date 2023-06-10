@@ -22,8 +22,8 @@
 
 <!-- current projects -->
 # Current Projects
-Learning C++ and Algorithms for competitive programming. Following is my C++ template... shoutout to rachitiitr
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=comp_template&theme=merko&show_icons=true)](https://github.com/TKAMING/comp_template)
+Learning C++ and Algorithms for competitive programming. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKAMING&repo=Algorithms&theme=merko&show_icons=true)](https://github.com/TKAMING/comp_template)
 
 ---
 
