@@ -1,4 +1,4 @@
-<img src="https://github.com/TKAMING/TKAMING/blob/main/header.svg" width="800" height="400">
+<img align="center" src="https://github.com/TKAMING/TKAMING/blob/main/lofiavatarround.png">
 
 <h1 align="center">Hi 👋, I'm Tobias Karuth</h1>
 <h3 align="center">A passionate software developer</h3>
@@ -12,17 +12,18 @@
 
   <!-- top streakes -->
   ![Top Streaks](https://github-readme-streak-stats.herokuapp.com/?user=tkaming&theme=merko&show_icons=true)
+  
 </div>
-<h3 align="left">Skills:</h3>
-<p align="left">
+<div align="left">
+  <h3>Skills:</h3>
   <a href="https://github.com/TKAMING">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,arch,neovim"/>
   </a>
-</p>
+</div>
 
-<div>
-  <h3 align="left">Connect with me:</h3>
-  <a align="right" href="mailto:tobiaskaruth@duck.com">
+<div align="left">
+  <h3>Connect with me:</h3>
+  <a href="mailto:tobiaskaruth@duck.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
   </a>
 </div>
