@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/TKAMING/TKAMING/blob/main/lofiavatar.png)
+<img align="center" src="css.svg" width="800" height="400">
 <h1 align="center">Hi 👋, I'm Tobias Karuth</h1>
 <h3 align="center">A passionate software developer</h3>
 
@@ -14,7 +14,7 @@
 </div>
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/TKAMING">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,arch,neovim"/>
   </a>
 </p>
